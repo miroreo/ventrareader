@@ -1,0 +1,16 @@
+{
+    "name": "Ventra Reader",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icon_512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+  }
